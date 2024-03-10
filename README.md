@@ -1,2 +1,1 @@
-# MBG
-MB Gold
+# MB Guild Documentations
