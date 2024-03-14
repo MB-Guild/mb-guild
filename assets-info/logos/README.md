@@ -1,3 +1,2 @@
-----!
-Upload your asset logo in this folder
+> Upload your asset logo in this folder
 ----
