@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity =0.7.6;
+pragma solidity ^0.8.17;
 
 interface IgMBGTokenUsage {
     function allocate(address userAddress, uint256 amount, bytes calldata data) external;
