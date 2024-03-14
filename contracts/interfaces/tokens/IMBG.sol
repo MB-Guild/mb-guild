@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.17;
+pragma solidity ^0.8.20;
 
-import "@openzeppelin/contracts/token/ERC20/IERC20.sol";
+import "./openzeppelin-contracts/contracts/token/ERC20/IERC20.sol";
 
 interface IMBG is IERC20{
   function lastEmissionTime() external view returns (uint256);
