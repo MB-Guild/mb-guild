@@ -6,8 +6,7 @@
   "author": "thirdweb <eng@thirdweb.com>",
   "license": "MIT",
   "dependencies": {
-    "@thirdweb-dev/contracts": "^3",
-    "forge": "^2.3.0"
+    "@thirdweb-dev/contracts": "^3"
   },
   "scripts": {
     "build": "npx thirdweb@latest detect",
