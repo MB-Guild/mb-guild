@@ -16,19 +16,19 @@ pragma solidity ^0.8.11;
 import "@openzeppelin/contracts/token/ERC20/IERC20.sol";
 
 // Meta transactions
-import "./ERC2771ContextUpgradeable.sol";
+import "@thirdweb-dev/contracts/external-deps/openzeppelin/metatx/ERC2771ContextUpgradeable.sol";
 
 // Utils
-import "./Multicall.sol";
-import { CurrencyTransferLib } from "./CurrencyTransferLib.sol";
-import "./IERC20Metadata.sol";
+import "@thirdweb-dev/contracts/extension/Multicall.sol";
+import { CurrencyTransferLib } from "@thirdweb-dev/contracts/lib/CurrencyTransferLib.sol";
+import "@thirdweb-dev/contracts/eip/interface/IERC20Metadata.sol";
 
 //  ==========  Features    ==========
 
-import "./ContractMetadata.sol";
-import "./PermissionsEnumerable.sol";
-import { Staking20Upgradeable } from "./Staking20Upgradeable.sol";
-import "./ITokenStake.sol";
+import "@thirdweb-dev/contracts/extension/ContractMetadata.sol";
+import "@thirdweb-dev/contracts/extension/PermissionsEnumerable.sol";
+import { Staking20Upgradeable } from "@thirdweb-dev/contracts/extension/Staking20Upgradeable.sol";
+import "@thirdweb-dev/contracts/prebuilts/interface/staking/ITokenStake.sol";
 
 contract TokenStake is
     Initializable,
