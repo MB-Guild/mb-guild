@@ -2,6 +2,7 @@
   "dependencies": {
     "@thirdweb-dev/sdk": "^4.0.46",
     "ethers": "^5.7.2",
+    "forge": "^2.3.0",
     "thirdweb": "^0.13.51"
   }
 }
