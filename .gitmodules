@@ -1,0 +1,3 @@
+[submodule "mb-guild/lib/forge-std"]
+	path = mb-guild/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std.git
