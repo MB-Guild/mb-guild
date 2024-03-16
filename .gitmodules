@@ -7,3 +7,6 @@
 [submodule "mbgold/lib/forge-std"]
 	path = mbgold/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std.git
+[submodule "mbg-staking/lib/forge-std"]
+	path = mbg-staking/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std.git
