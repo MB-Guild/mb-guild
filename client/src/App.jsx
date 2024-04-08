@@ -20,9 +20,7 @@ export default function Home() {
           </h1>
 
           <p className="description">
-            Get started by configuring your desired network in{" "}
-            <code className="code">src/index.js</code>, then modify the{" "}
-            <code className="code">src/App.js</code> file!
+            MB Guild Dapp is under construction, coming soon!
           </p>
 
           <div className="connect">
