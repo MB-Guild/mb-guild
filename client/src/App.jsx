@@ -36,8 +36,8 @@ export default function Home() {
             rel="noopener noreferrer"
           >
             <img
-              src="/images/portal-preview.png"
-              alt="Placeholder preview of starter"
+              src="/images/Join_The_Bun_Run.jpg"
+              alt="Meet $BUN your friendly bas neighbor"
             />
             <div className="card-text">
               <h2 className="gradient-text-1">What is $BUN ➜</h2>
@@ -54,8 +54,8 @@ export default function Home() {
             rel="noopener noreferrer"
           >
             <img
-              src="/images/dashboard-preview.png"
-              alt="Placeholder preview of starter"
+              src="/images/Bun_Developing.jpg"
+              alt="Join the presal"
             />
             <div className="card-text">
               <h2 className="gradient-text-2">Presale ➜</h2>
@@ -72,7 +72,7 @@ export default function Home() {
             rel="noopener noreferrer"
           >
             <img
-              src="/images/templates-preview.png"
+              src="/images/Contract_Signed.jpg"
               alt="Placeholder preview of templates"
             />
             <div className="card-text">
