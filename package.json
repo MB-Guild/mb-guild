@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "nodejs": "^0.0.0",
+    "thirdweb": "^5.3.1"
+  }
+}
