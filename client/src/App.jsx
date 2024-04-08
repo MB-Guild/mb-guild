@@ -10,11 +10,11 @@ export default function Home() {
             Welcome to{" "}
             <span className="gradient-text-0">
               <a
-                href="https://thirdweb.com/"
+                href="https://mb-guild.xyz/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                thirdweb.
+                MB Guild
               </a>
             </span>
           </h1>
@@ -32,7 +32,7 @@ export default function Home() {
 
         <div className="grid">
           <a
-            href="https://portal.thirdweb.com/"
+            href="https://mb-guild.xyz/bun"
             className="card"
             target="_blank"
             rel="noopener noreferrer"
@@ -42,16 +42,15 @@ export default function Home() {
               alt="Placeholder preview of starter"
             />
             <div className="card-text">
-              <h2 className="gradient-text-1">Portal ➜</h2>
+              <h2 className="gradient-text-1">What is $BUN ➜</h2>
               <p>
-                Guides, references, and resources that will help you build with
-                thirdweb.
+                MB Guild community token launched and deployed on Base Ethereum L2 chain
               </p>
             </div>
           </a>
 
           <a
-            href="https://thirdweb.com/dashboard"
+            href="https://mb-guild.xyz/bun/presale"
             className="card"
             target="_blank"
             rel="noopener noreferrer"
@@ -61,16 +60,15 @@ export default function Home() {
               alt="Placeholder preview of starter"
             />
             <div className="card-text">
-              <h2 className="gradient-text-2">Dashboard ➜</h2>
+              <h2 className="gradient-text-2">Presale ➜</h2>
               <p>
-                Deploy, configure, and manage your smart contracts from the
-                dashboard.
+                Presale has been closed!
               </p>
             </div>
           </a>
 
           <a
-            href="https://thirdweb.com/templates"
+            href="https://mb-guild.xyz/bun/tokenomic"
             className="card"
             target="_blank"
             rel="noopener noreferrer"
@@ -80,10 +78,9 @@ export default function Home() {
               alt="Placeholder preview of templates"
             />
             <div className="card-text">
-              <h2 className="gradient-text-3">Templates ➜</h2>
+              <h2 className="gradient-text-3">Tokenomic ➜</h2>
               <p>
-                Discover and clone template projects showcasing thirdweb
-                features.
+                0% teams allocations
               </p>
             </div>
           </a>
