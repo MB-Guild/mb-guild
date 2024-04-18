@@ -5,6 +5,7 @@ import { SpeedInsights } from "@vercel/speed-insights/next"
 export default function Home() {
   return (
     <main className="main">
+      <SpeedInsights/>
       <div className="container">
         <div className="header">
           <h1 className="title">
