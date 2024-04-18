@@ -1,5 +1,6 @@
 import { ConnectWallet } from "@thirdweb-dev/react";
 import "./styles/Home.css";
+import { SpeedInsights } from "@vercel/speed-insights/next"
 
 export default function Home() {
   return (
