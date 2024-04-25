@@ -1,11 +1,9 @@
 ---
-cover: broken-reference
+cover: .gitbook/assets/1000054915.png
 coverY: 0
 ---
 
 # 🛡️ About MB Guild
-
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 [MB Guild](https://mb-guild.xyz) is a guild created by community for community focused on blockchain technology and development since 2020.
 
