@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/MBG_Header-Dark.png
+cover: .gitbook/assets/MBG_Header-Dark (1).png
 coverY: 0
 ---
 

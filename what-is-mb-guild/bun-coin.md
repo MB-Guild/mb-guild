@@ -5,7 +5,7 @@ coverY: 0
 
 # 🪙 Bun Coin
 
-## What is Bun Coin
+## :information\_source: What is Bun Coin
 
 Bun Coin ($BUN) is MB Guild community token launched and deployed on Base.
 
@@ -23,8 +23,6 @@ Bun Coin ($BUN) is MB Guild community token launched and deployed on Base.
 {% hint style="success" %}
 0% teams allocations
 {% endhint %}
-
-
 
 | Description      | Details                                                                                           |
 | ---------------- | ------------------------------------------------------------------------------------------------- |
