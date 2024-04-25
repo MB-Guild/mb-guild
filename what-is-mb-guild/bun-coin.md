@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/1000070340.jpg
+cover: ../.gitbook/assets/BUN_Header-Blue.jpg
 coverY: 0
 ---
 
