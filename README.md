@@ -1,13 +1,13 @@
 ---
-cover: .gitbook/assets/MBG_Header-Dark.png
+cover: .gitbook/assets/MBG_Header-Dark (1).png
 coverY: 0
 ---
 
-# 🛡️ What is MB Guild
+# 🛡️ About MB Guild
 
 [MB Guild](https://mb-guild.xyz) is a guild created by community for community focused on blockchain technology and development since 2020.
 
-MB Guild is designed as a highly effective and flexible protocol, crafted to enable builders and users to utilize our specialized infrastructure for profound, enduring, and versatile liquidity solutions. Steering away from the conventional DEX architecture, MB Guild emphasizes a customized strategy that places a high value on composability and user-centric features.
+MB Guild is designed as a highly effective and flexible community crafted to enable builders and users to utilize our specialized infrastructure for profound, enduring, and versatile blockchain solutions. Steering away from the conventional decentralize finance architecture, MB Guild emphasizes a customized protocol that places a high value on composability and user-centric features.
 
 #### 🎯 MB Guild Goals:
 
