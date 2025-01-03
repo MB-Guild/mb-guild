@@ -7,7 +7,7 @@ coverY: 0
 
 ## :information\_source: What is Bun Coin
 
-Bun Coin ($BUN) is MB Guild community token launched and deployed on Base.
+Bun Token ($BUN) is Bun Agent community token launched and deployed on Solana.
 
 | Description        | Details                                      |
 | ------------------ | -------------------------------------------- |
@@ -24,8 +24,8 @@ Bun Coin ($BUN) is MB Guild community token launched and deployed on Base.
 0% teams allocations
 {% endhint %}
 
-| Description      | Details                                                                                                           |
-| ---------------- | -------------------------------------------------------------------------------------------------------------     |
-| Name             | Bun Token (BUN)                                                                                                   |
-| Link             | [0x726F93fF5Ca13Be732Af48FFb387162857Fa3079](https://pump.fun/coin/5KSo7GM3pwjjr1yGtfsy5G1X5c6FGDhiaZm7Cpzppump)  |
-| Market           | [Uniswap](https://app.uniswap.org/swap?outputCurrency=0x4b3a5ed554de7a5da38728dcbc4124e602a1cf2b)                 |
+| Description      | Details                                                                        |
+| ---------------- | --------------------------------------------------------------------------     |
+| Name             | Bun Token (BUN)                                                                |
+| Fair Launch      | [pump.fun](https://pump.fun/coin/5KSo7GM3pwjjr1yGtfsy5G1X5c6FGDhiaZm7Cpzppump) |
+| AI Agent         | [vvaifu.fun](https://vvaifu.fun/character/6772d024ec7e994f9e2e374a)            |
