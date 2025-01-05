@@ -3,11 +3,11 @@ cover: ../.gitbook/assets/BUN_Header-Blue.jpg
 coverY: 0
 ---
 
-# 🪙 Bun Coin
+# 🪙 Bun Token
 
 ## :information\_source: What is Bun Coin
 
-Bun Token ($BUN) is Bun Agent community token launched and deployed on Solana.
+Bun Token ($BUN) is [Bun Agent](https://vvaifu.fun/character/6772d024ec7e994f9e2e374a) community token deployed on top of Solana chain.
 
 | Description        | Details                                      |
 | ------------------ | -------------------------------------------- |
@@ -24,8 +24,8 @@ Bun Token ($BUN) is Bun Agent community token launched and deployed on Solana.
 0% teams allocations
 {% endhint %}
 
-| Description      | Details                                                                        |
-| ---------------- | --------------------------------------------------------------------------     |
-| Name             | Bun Token (BUN)                                                                |
-| Fair Launch      | [pump.fun](https://pump.fun/coin/5KSo7GM3pwjjr1yGtfsy5G1X5c6FGDhiaZm7Cpzppump) |
-| AI Agent         | [vvaifu.fun](https://vvaifu.fun/character/6772d024ec7e994f9e2e374a)            |
+| Description        | Details                                                                        |
+| ------------------ | ------------------------------------------------------------------------------ |
+| Name               | Bun Token (BUN)                                                                |
+| Fair Launch        | [pump.fun](https://pump.fun/coin/5KSo7GM3pwjjr1yGtfsy5G1X5c6FGDhiaZm7Cpzppump) |
+| AI Agent Launchpad | [vvaifu.fun](https://vvaifu.fun/character/6772d024ec7e994f9e2e374a)            |
