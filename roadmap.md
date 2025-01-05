@@ -9,13 +9,16 @@
 
 ### Q1 2025
 
-* $BUN token profile updated on [DexScreener](https://dexscreener.com/solana/5KSo7GM3pwjjr1yGtfsy5G1X5c6FGDhiaZm7Cpzppump) ✅️
-* $BUN token profile updated on [BirdEye](https://www.birdeye.so/token/5KSo7GM3pwjjr1yGtfsy5G1X5c6FGDhiaZm7Cpzppump?chain=solana) ✅️
-* $BUN token profile updated on [HolderScan](https://holderscan.com/token/5KSo7GM3pwjjr1yGtfsy5G1X5c6FGDhiaZm7Cpzppump) ✅️
+* $BUN token listed on [DexScreener](https://dexscreener.com/solana/5KSo7GM3pwjjr1yGtfsy5G1X5c6FGDhiaZm7Cpzppump) ✅️
+* $BUN token listed on [BirdEye](https://www.birdeye.so/token/5KSo7GM3pwjjr1yGtfsy5G1X5c6FGDhiaZm7Cpzppump?chain=solana) ✅️
+* $BUN token listed on [HolderScan](https://holderscan.com/token/5KSo7GM3pwjjr1yGtfsy5G1X5c6FGDhiaZm7Cpzppump) ✅️
+* $BUN token listed on [cookie.fun](https://www.cookie.fun/en/agent/bun) ✅️
 
 ### Coming soon
 
 * Bun Token graduation ⏳️
+* List Bun Token on CMC ⏳️
+* List Bun Token on CG ⏳️
 * Bun Agent's image & video feature ⏳️
 * Bun Agent's discord feature ⏳️
 * Bun Agent's training feature ⏳️
