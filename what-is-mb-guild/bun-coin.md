@@ -5,7 +5,7 @@ coverY: 0
 
 # 🪙 Bun Token
 
-## :information\_source: What is Bun Coin
+## :information\_source: What is Bun Token
 
 Bun Token ($BUN) is [Bun Agent](https://vvaifu.fun/character/6772d024ec7e994f9e2e374a) community token deployed on top of Solana chain.
 
