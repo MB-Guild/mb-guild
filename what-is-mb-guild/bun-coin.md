@@ -24,8 +24,12 @@ Bun Token ($BUN) is [Bun Agent](https://vvaifu.fun/character/6772d024ec7e994f9e2
 0% teams allocations
 {% endhint %}
 
-| Description        | Details                                                                        |
-| ------------------ | ------------------------------------------------------------------------------ |
-| Name               | Bun Token (BUN)                                                                |
-| Fair Launch        | [pump.fun](https://pump.fun/coin/5KSo7GM3pwjjr1yGtfsy5G1X5c6FGDhiaZm7Cpzppump) |
-| AI Agent Launchpad | [vvaifu.fun](https://vvaifu.fun/character/6772d024ec7e994f9e2e374a)            |
+| Description        | Details                                                                                  |
+| ------------------ | ---------------------------------------------------------------------------------------- |
+| Name               | [Bun Token (BUN)](https://solscan.io/token/5KSo7GM3pwjjr1yGtfsy5G1X5c6FGDhiaZm7Cpzppump) |
+| Fair Launch        | [pump.fun](https://pump.fun/coin/5KSo7GM3pwjjr1yGtfsy5G1X5c6FGDhiaZm7Cpzppump)           |
+| AI Agent Launchpad | [vvaifu.fun](https://vvaifu.fun/character/6772d024ec7e994f9e2e374a)                      |
+
+{% hint style="danger" %}
+$BUN token has no association with [Pudgy Penguins](https://x.com/pudgypenguins) or [Igloo Inc.](https://x.com/IglooInc) $BUN is a meme coin with no intrinsic value or expectation of financial return, the token is completely useless and for entertainment purposes only.
+{% endhint %}
