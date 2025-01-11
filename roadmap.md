@@ -1,29 +1,43 @@
 # 🗺️ Roadmap
 
+{% stepper %}
+{% step %}
 ### Q4 2024
 
 * $BUN token launched on [pump.fun](https://pump.fun/coin/5KSo7GM3pwjjr1yGtfsy5G1X5c6FGDhiaZm7Cpzppump) ✅️
 * Bun Agent launched on [vvaifu.fun](https://vvaifu.fun/character/6772d024ec7e994f9e2e374a) ✅️
-* Bun Agent's twitter feature unlocked ✅️
-* Bun Agent's telegram feature unlocked ✅️
+* Bun Agent's [twitter feature](https://x.com/0xiLBiscione) unlocked ✅️
+* Bun Agent's [telegram feature](https://t.me/buncoinsol) unlocked ✅️
+{% endstep %}
 
+{% step %}
 ### Q1 2025
 
 * $BUN token listed on [DexScreener](https://dexscreener.com/solana/5KSo7GM3pwjjr1yGtfsy5G1X5c6FGDhiaZm7Cpzppump) ✅️
 * $BUN token listed on [BirdEye](https://www.birdeye.so/token/5KSo7GM3pwjjr1yGtfsy5G1X5c6FGDhiaZm7Cpzppump?chain=solana) ✅️
 * $BUN token listed on [HolderScan](https://holderscan.com/token/5KSo7GM3pwjjr1yGtfsy5G1X5c6FGDhiaZm7Cpzppump) ✅️
 * $BUN token listed on [cookie.fun](https://www.cookie.fun/en/agent/bun) ✅️
+{% endstep %}
 
-### Coming soon
+{% step %}
+### Q2 2025
 
-* Bun Token graduation ⏳️
-* List Bun Token on CMC ⏳️
-* List Bun Token on CG ⏳️
+* 6.5% token unlock: _2.5% liquidity, 2% Staking reward, 2% Community airdrops_ ⏳️
 * Bun Agent's image & video feature ⏳️
 * Bun Agent's discord feature ⏳️
 * Bun Agent's training feature ⏳️
 * Bun Agent's voice feature ⏳️
 * Bun Agent's onchain feature ⏳️
+{% endstep %}
+
+{% step %}
+### Coming soon (TBA)
+
+* $BUN token listed on CoinMarketCap ⏳️
+* $BUN token listed on CoinGecko ⏳️
 * Bun Terminal ⏳️
 * Staking rewards ⏳️
-* TBA
+* Community airdrops ⏳️
+* CEX listing ⏳️
+{% endstep %}
+{% endstepper %}
