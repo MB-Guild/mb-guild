@@ -1,3 +1,0 @@
-# 💻 Bun Terminal
-
-## COMING SOON

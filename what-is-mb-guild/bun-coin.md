@@ -5,9 +5,9 @@ coverY: 0
 
 # 🪙 Bun Token
 
-## :information\_source: What is Bun Token
+## 🪙 What is Bun Token
 
-Bun Token ($BUN) is [Bun Agent](https://vvaifu.fun/character/6772d024ec7e994f9e2e374a) community token deployed on top of Solana chain.
+Bun Token ($BUN) is [Bun Agent](https://vvaifu.fun/character/6772d024ec7e994f9e2e374a)'s memecoin deployed on Solana chain.
 
 | Description        | Details                                      |
 | ------------------ | -------------------------------------------- |
@@ -31,5 +31,5 @@ Bun Token ($BUN) is [Bun Agent](https://vvaifu.fun/character/6772d024ec7e994f9e2
 | AI Agent Launchpad | [vvaifu.fun](https://vvaifu.fun/character/6772d024ec7e994f9e2e374a)                      |
 
 {% hint style="danger" %}
-$BUN token has no association with [Pudgy Penguins](https://x.com/pudgypenguins) or [Igloo Inc.](https://x.com/IglooInc) $BUN is a meme coin with no intrinsic value or expectation of financial return, the token is completely useless and for entertainment purposes only.
+$BUN token has no association with [Pudgy Penguins](https://x.com/pudgypenguins) or [Igloo Inc.](https://x.com/IglooInc) $BUN is a memecoin with no intrinsic value or expectation of financial return, the token is completely useless and for entertainment purposes only.
 {% endhint %}
