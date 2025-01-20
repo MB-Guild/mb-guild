@@ -23,7 +23,7 @@
 {% step %}
 ### Q2 2025
 
-* 6.5% token unlock: &#x34;_.5% liquidity, 2% Staking reward/Community airdrops_ ⏳️
+* $BUN token unlocked ⏳️
 * Bun Agent's image & video feature ⏳️
 * Bun Agent's discord feature ⏳️
 * Bun Agent's data training feature ⏳️
