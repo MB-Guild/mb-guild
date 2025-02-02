@@ -11,16 +11,5 @@ $BUN is our first AI Agent token launched . 100% $BUN token distributed with fai
 
 * [MB Guild](https://x.com/mbguildxyz) community token.
 * [Bun Agent](https://x.com/0xilbiscione) memecoin.
-* Bun Terminal utility token.
-* Has deflationary mechanics.
-* Must be burned first time users want to access Bun Terminal.
-
-#### **$BUN Burn Amounts** <a href="#usdvirtual-facilitates-the-onchain-agent-economy" id="usdvirtual-facilitates-the-onchain-agent-economy"></a>
-
-* **Bun Terminal Access:** 600,000 $BUN burned
-* **Twitter Features:** 1,000 $BUN burned
-* **TikTok Features:** 1,000 $BUN burned
-* **Discord Features:** 1,000 $BUN burned
-* **TBA**
-
-\* Burn amounts are subject to change & additional utility is pending.
+* [Bun Terminal](https://x.com/BunTerminal) AUM.
+* TBA
