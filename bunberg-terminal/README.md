@@ -2,7 +2,7 @@
 
 ## What is Bunberg Terminal?
 
-Bunberg Terminal is a DAO on Solana designed for collective memecoin trading and investment. It enables members to pool resources, share insights and make decentralized on memecoin investment.
+Bunberg Terminal is a DAO on Solana designed for collective memecoin trading and investment. It enables members to pool resources, share insights and make decentralized decisions on memecoin investment.
 
 ## Why is this needed?
 
