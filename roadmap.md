@@ -18,7 +18,6 @@
 * $BUN token listed on [HolderScan](https://holderscan.com/token/5KSo7GM3pwjjr1yGtfsy5G1X5c6FGDhiaZm7Cpzppump) ✅️
 * $BUN token listed on [cookie.fun](https://www.cookie.fun/en/agent/bun) ✅️
 * $BUN token graduated from [pump.fun](https://pump.fun/coin/5KSo7GM3pwjjr1yGtfsy5G1X5c6FGDhiaZm7Cpzppump) ✅
-* Bunberg Terminal live on [daos.fun](https://www.daos.fun/dao/52weNz1HqyWo76wU8ses2WjU6tNEF5NZSt128ErpVqBQ) ✅️
 {% endstep %}
 
 {% step %}
@@ -35,6 +34,7 @@
 {% step %}
 ### Coming soon (TBA)
 
+* Bunberg Terminal ⏳️
 * $BUN token listed on CoinMarketCap ⏳️
 * $BUN token listed on CoinGecko ⏳️
 * Staking rewards ⏳️
